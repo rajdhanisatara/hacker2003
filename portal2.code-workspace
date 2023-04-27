@@ -1,0 +1,73 @@
+{
+	"folders": [
+		{
+			"name": "JavaScript2022",
+			"path": "E:/JavaScript2022"
+		},
+		{
+			"name": "python language",
+			"path": "E:/python language"
+		},
+		{
+			"name": "react2022",
+			"path": "E:/react2022"
+		},
+		{
+			"name": "WebDevlopment2023",
+			"path": "E:/WebDevlopment2023"
+		},
+		{
+			"name": "language",
+			"path": "../../../Desktop/c/language"
+		},
+		{
+			"name": "HTML",
+			"path": "../../../Desktop/c/HTML"
+		},
+		{
+			"name": "Backend_nodejs",
+			"path": "F:/Backend_nodejs"
+		},
+		{
+			"name": "JavaScript2023",
+			"path": "F:/JavaScript2023"
+		},
+		{
+			"name": "Seminar2023",
+			"path": "../../../Desktop/Seminar2023"
+		},
+		{
+			"name": "fitlife-master",
+			"path": "../../fitlife-master/fitlife-master"
+		},
+		{
+			"name": "GymWebsite-main",
+			"path": "../../GymWebsite-main/GymWebsite-main"
+		},
+		{
+			"name": "Fitness-Website-main",
+			"path": "../../Fitness-Website-main/Fitness-Website-main"
+		},
+		{
+			"name": "login-signup-page-for-hospital-website-main",
+			"path": "../../login-signup-page-for-hospital-website-main/login-signup-page-for-hospital-website-main"
+		},
+		{
+			"name": "fitlife-master2",
+			"path": "G:/fitlife-master2"
+		},
+		{
+			"name": "construction",
+			"path": "../../construction/construction"
+		},
+		{
+			"path": "../../Client1-construction-site-main"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "construction"
+	}
+}
